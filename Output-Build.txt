@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: HWbuttons, Configuration: Debug Any CPU ------
+1>C:\Users\Yana\source\repos\WindowsFormsApp1\HWbuttons\Form1.Designer.cs(54,45,54,52): warning CS0649: Field 'Form1.button1' is never assigned to, and will always have its default value null
+1>  HWbuttons -> C:\Users\Yana\source\repos\WindowsFormsApp1\HWbuttons\bin\Debug\HWbuttons.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
